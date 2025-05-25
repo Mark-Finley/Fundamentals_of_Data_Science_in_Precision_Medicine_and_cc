@@ -38,4 +38,4 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ## Contact
 
-For questions or suggestions, please contact [MarkFinley](mailto:oseimarkfinley@gmail.com).
+For questions or suggestions, please contact [oseimarkfinley@gmail.com](mailto:oseimarkfinley@gmail.com).
